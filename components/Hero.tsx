@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
 	return (
-		<div className="min-h-screen bg-[#7ABADD] mx-5 rounded-xl">
+		<div className="min-h-screen bg-[#7ABADD] mx-5 rounded-large">
 			<div className="hero-content text-center">
 				<div className="max-w-md">
 					<h1 className="text-5xl font-bold">Hello there</h1>
